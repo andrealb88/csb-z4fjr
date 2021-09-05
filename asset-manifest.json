@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://andrealb88.github.io/csb-z4fjr/static/css/main.1027a866.chunk.css",
+    "main.js": "https://andrealb88.github.io/csb-z4fjr/static/js/main.932d566e.chunk.js",
+    "main.js.map": "https://andrealb88.github.io/csb-z4fjr/static/js/main.932d566e.chunk.js.map",
+    "runtime-main.js": "https://andrealb88.github.io/csb-z4fjr/static/js/runtime-main.cccad05d.js",
+    "runtime-main.js.map": "https://andrealb88.github.io/csb-z4fjr/static/js/runtime-main.cccad05d.js.map",
+    "static/js/2.d9327879.chunk.js": "https://andrealb88.github.io/csb-z4fjr/static/js/2.d9327879.chunk.js",
+    "static/js/2.d9327879.chunk.js.map": "https://andrealb88.github.io/csb-z4fjr/static/js/2.d9327879.chunk.js.map",
+    "static/js/3.22138a9b.chunk.js": "https://andrealb88.github.io/csb-z4fjr/static/js/3.22138a9b.chunk.js",
+    "static/js/3.22138a9b.chunk.js.map": "https://andrealb88.github.io/csb-z4fjr/static/js/3.22138a9b.chunk.js.map",
+    "index.html": "https://andrealb88.github.io/csb-z4fjr/index.html",
+    "static/css/main.1027a866.chunk.css.map": "https://andrealb88.github.io/csb-z4fjr/static/css/main.1027a866.chunk.css.map",
+    "static/js/2.d9327879.chunk.js.LICENSE.txt": "https://andrealb88.github.io/csb-z4fjr/static/js/2.d9327879.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cccad05d.js",
+    "static/js/2.d9327879.chunk.js",
+    "static/css/main.1027a866.chunk.css",
+    "static/js/main.932d566e.chunk.js"
+  ]
+}
